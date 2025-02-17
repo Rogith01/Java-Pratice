@@ -20,10 +20,11 @@ public class StringbuilderReverse {
         //     sb.setCharAt(back, frontChar);
         // }
 
-        // System.out.println(sb);
+        System.out.println(sb);
         sc.close();
 
         sb.reverse();
+        System.out.println(sb);
        
 
     }
